@@ -2,3 +2,7 @@ h1 {
 	/*font-family: "Open Sans", sans-serif;*/
 	font: 100 4.5em "Helvetica Neue","Open Sans",sans-serif;
 }
+
+body {
+	font-family: "Helvetica Neue", "Open Sans", sans-serif;
+}
