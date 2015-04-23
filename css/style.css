@@ -1,8 +1,18 @@
 h1 {
-	/*font-family: "Open Sans", sans-serif;*/
-	font: 100 4.5em "Helvetica Neue","Open Sans",sans-serif;
+    font-family: "Helvetica Neue", "Open Sans", sans-serif;
+    font-size: 350%;
 }
 
 body {
 	font-family: "Helvetica Neue", "Open Sans", sans-serif;
+}
+
+#content {
+    width: 700px;
+    margin: 0 auto;
+    background: lavenderblush;
+    -webkit-box-shadow: 3px 10px 20px -8px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 3px 10px 20px -8px rgba(0, 0, 0, 0.75);
+    box-shadow: 3px 10px 20px -8px rgba(0, 0, 0, 0.75);
+    padding: 20px;
 }
