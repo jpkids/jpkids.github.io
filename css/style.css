@@ -23,5 +23,40 @@ body {
 
 ul#messageform {
     list-style-type: none;
-    padding: 0px;
+    padding: 0;
+}
+
+#formCountrySelect {
+    width: 227px;
+    height: 26px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+#formEmail {
+    width: 224px;
+    height: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+#formName {
+    width: 225px;
+    height: 20px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+#formMessage {
+    width: 695px;
+    height: 205px;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 15px;
+}
+
+#formSubmit {
+    width: 700px;
+    height: 50px;
+    background-color: moccasin;
+    font-size: 25px;
 }
